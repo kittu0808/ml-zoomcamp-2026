@@ -68,4 +68,4 @@ The Random Forest model with a decision threshold of 0.30 achieved the following
 - Monitor model performance over time.
 
 ## Author
-Machine Learning Zoomcamp 2026 Midterm Project.
+Shubham Anant Kulkarni.
